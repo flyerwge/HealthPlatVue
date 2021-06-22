@@ -1,0 +1,37 @@
+{
+  "id": "2550527",
+  "name": "LoginComponent",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14975824",
+      "name": "运动",
+      "font_class": "yundong",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "7501110",
+      "name": "权限",
+      "font_class": "fenghuangxiangmutubiao_quanxian",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "1327085",
+      "name": "密码",
+      "font_class": "icon-mima",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "10143467",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
